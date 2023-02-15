@@ -1,5 +1,5 @@
 {
-  "name": "learn",
+  "name": "learn-package",
   "version": "0.1.0",
   "description": "My first react typescript package",
   "main": "./dist/cjs/index.js",
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/hanhkim/app_publish.git"
   },
-	"files": [
+  "files": [
     "dist",
     "LICENSE",
     "README.md"
