@@ -1,5 +1,5 @@
 {
-  "name": "learn-package",
+  "name": "learn-package-react-typescript",
   "version": "0.1.0",
   "description": "My first react typescript package",
   "main": "./dist/cjs/index.js",
